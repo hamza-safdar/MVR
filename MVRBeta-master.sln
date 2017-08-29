@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVRBeta-master", "MVRBeta-master.csproj", "{D0A384BE-B4AD-22B3-7CC5-8E68A8D8BEAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVRBeta-master.Plugins", "MVRBeta-master.Plugins.csproj", "{8A3E866B-858A-94BB-E4D7-67DB3229B576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVRBeta-master.Editor", "MVRBeta-master.Editor.csproj", "{ACD0B5A7-BF7B-9DAD-2D6C-C34E610957FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0A384BE-B4AD-22B3-7CC5-8E68A8D8BEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A384BE-B4AD-22B3-7CC5-8E68A8D8BEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A384BE-B4AD-22B3-7CC5-8E68A8D8BEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A384BE-B4AD-22B3-7CC5-8E68A8D8BEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3E866B-858A-94BB-E4D7-67DB3229B576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3E866B-858A-94BB-E4D7-67DB3229B576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3E866B-858A-94BB-E4D7-67DB3229B576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3E866B-858A-94BB-E4D7-67DB3229B576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD0B5A7-BF7B-9DAD-2D6C-C34E610957FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD0B5A7-BF7B-9DAD-2D6C-C34E610957FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD0B5A7-BF7B-9DAD-2D6C-C34E610957FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD0B5A7-BF7B-9DAD-2D6C-C34E610957FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
